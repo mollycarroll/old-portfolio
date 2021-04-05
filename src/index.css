@@ -19,12 +19,13 @@ h1, h2, h3 {
 
 .project-img {
   box-shadow: 5px 5px 5px #878787;
+  max-width: max-content;
 }
 
 .card-link {
   text-align: center;
   text-decoration: none;
-  color: red
+  color: red;
 }
 
 .header {

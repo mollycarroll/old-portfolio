@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './Header'
 import { Link } from 'react-router-dom'
 import jeopardy from '../assets/jeopardy.png'
+import travelist from '../assets/travelist.png'
 
 const Home = () => {
 
@@ -26,17 +27,17 @@ const Home = () => {
 
             <div className="row justify-content-center row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
 
-                <div className="card m-4">
-                <img className="card-img-top" src={jeopardy} alt="Jeopardy"/>
+                <div className="card m-4 border-0">
+                <img className="card-img-top project-img" src={jeopardy} alt="Jeopardy"/>
                 <div className="card-body">
                 <Link to="/jeopardy" className="card-link">Jeopardy Browser Game</Link>
                 </div>
                 </div>
 
-                <div className="card m-4">
-                <img className="card-img-top" src={jeopardy} alt="Jeopardy"/>
+                <div className="card m-4 border-0">
+                <img className="card-img-top project-img" src={travelist} alt="Jeopardy"/>
                 <div className="card-body">
-                <Link to="/jeopardy" className="card-link">Jeopardy Browser Game</Link>
+                <Link to="/travelist" className="card-link">Travelist: a travel bucket list app</Link>
                 </div>
                 </div>
 
