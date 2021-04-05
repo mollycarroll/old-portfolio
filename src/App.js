@@ -1,35 +1,25 @@
 import React from 'react';
 import {
-	HashRouter as Router,
+	BrowserRouter as Router,
 	Switch,
 	Route
 } from 'react-router-dom'
+
 import Home from './components/Home'
+import Jeopardy from './components/Jeopardy'
 
 function App() {
   
   return (
     <Router>
       <Switch>
-        <Route exact path='/'>
+        <Route path='/'>
           <Home />
         </Route>
 
-        {/* <Route path='/jeopardy'>
+        <Route path='/jeopardy'>
             <Jeopardy />
         </Route>
-
-        <Route path='/travelist'>
-            <Travelist />
-        </Route>
-
-        <Route path='/gather'>
-            <Gather />
-        </Route>
-
-        <Route path='/serapis'>
-            <Serapis />
-        </Route> */}
 
       </Switch>
     </Router>
