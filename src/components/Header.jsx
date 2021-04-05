@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { Link } from 'react-router-dom'
 
 function Header() {
   const [sticky, setSticky] = useState({ isSticky: false, offset: 0 });
@@ -36,7 +37,7 @@ function Header() {
       </div>
  
       <div id="sticky-header" className={`navbar${sticky.isSticky ? ' sticky' : ''}`} ref={headerRef}>
-        <a href="#"><button>Home</button></a>
+        <Link to="/"><button>Home</button></Link>
         <a href="#"><button>About</button></a>
         <a href="#"><button>Projects</button></a>
         <a href="#" className="right"><button>Contact</button></a>

@@ -1,15 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 body {
   margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto Mono', monospace;
 }
 
 .about {
   padding-top: 5%;
 }
 
+/* .projects {
+  background: rgb(246,38,46);
+  background: linear-gradient(90deg, rgba(246,38,46,1) 13%, rgba(251,120,64,1) 90%);
+} */
+
+.project-img {
+  box-shadow: 5px 5px 5px #878787;
+}
+
+.card-link {
+  text-align: center;
+  text-decoration: none;
+  color: red
+}
+
 .header {
   padding: 80px;
   text-align: center;
   color: black;
+  font-family: 'Roboto Mono', monospace;
   background-size: cover;
   background: rgb(246,38,46);
   background: linear-gradient(90deg, rgba(246,38,46,1) 13%, rgba(251,120,64,1) 90%);

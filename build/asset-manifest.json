@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portfolio/static/js/main.45278619.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.45278619.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.51553de9.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.51553de9.js.map",
-    "static/js/2.a2b9b291.chunk.js": "/portfolio/static/js/2.a2b9b291.chunk.js",
-    "static/js/2.a2b9b291.chunk.js.map": "/portfolio/static/js/2.a2b9b291.chunk.js.map",
-    "static/js/3.a9e4f123.chunk.js": "/portfolio/static/js/3.a9e4f123.chunk.js",
-    "static/js/3.a9e4f123.chunk.js.map": "/portfolio/static/js/3.a9e4f123.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0f88910d.chunk.css",
+    "main.js": "/portfolio/static/js/main.7b427d58.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b427d58.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.86fb4904.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.86fb4904.js.map",
+    "static/css/2.371ae490.chunk.css": "/portfolio/static/css/2.371ae490.chunk.css",
+    "static/js/2.53cdfc1e.chunk.js": "/portfolio/static/js/2.53cdfc1e.chunk.js",
+    "static/js/2.53cdfc1e.chunk.js.map": "/portfolio/static/js/2.53cdfc1e.chunk.js.map",
+    "static/js/3.a3d7a0ab.chunk.js": "/portfolio/static/js/3.a3d7a0ab.chunk.js",
+    "static/js/3.a3d7a0ab.chunk.js.map": "/portfolio/static/js/3.a3d7a0ab.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a2b9b291.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a2b9b291.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/2.371ae490.chunk.css.map": "/portfolio/static/css/2.371ae490.chunk.css.map",
+    "static/css/main.0f88910d.chunk.css.map": "/portfolio/static/css/main.0f88910d.chunk.css.map",
+    "static/js/2.53cdfc1e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.53cdfc1e.chunk.js.LICENSE.txt",
+    "static/media/jeopardy.be624a5b.png": "/portfolio/static/media/jeopardy.be624a5b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51553de9.js",
-    "static/js/2.a2b9b291.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.45278619.chunk.js"
+    "static/js/runtime-main.86fb4904.js",
+    "static/css/2.371ae490.chunk.css",
+    "static/js/2.53cdfc1e.chunk.js",
+    "static/css/main.0f88910d.chunk.css",
+    "static/js/main.7b427d58.chunk.js"
   ]
 }

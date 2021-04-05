@@ -13,11 +13,11 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/'>
+        <Route exact path='/'>
           <Home />
         </Route>
 
-        <Route path='/jeopardy'>
+        <Route exact path='/jeopardy'>
             <Jeopardy />
         </Route>
 

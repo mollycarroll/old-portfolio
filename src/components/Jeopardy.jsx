@@ -1,13 +1,12 @@
 import React from 'react'
-import Navbar from './Navbar'
+import Header from './Header'
 
 const Jeopardy = () => {
-    console.log('jeopardy component')
 
     return (
         <div>
-            <Navbar />
-            <p>Jeopardy</p>
+            <Header />
+            <p>Jeopardy should be working</p>
         </div>
     )
 }
